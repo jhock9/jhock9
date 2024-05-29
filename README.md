@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jon Hocker</h1>
 <h3>Full Stack Developer and founder of OK Web Studios in OKC, blending people-oriented skills with a knack for creating clean, functional, and visually captivating websites and apps!</h3>
 
-- 🔭 My latest project was an [Interactive Flash Cards app](https://okwebstudios.com/flashcards) for [ABA-OK](https://www.abaco-op.org/)
+- 🔭 My latest project was an [AI Translator App](https://github.com/jhock9/pollyglot)
 
 - 👨‍💻 Check out some of my other work at [www.okwebstudios.com](https://www.okwebstudios.com/#portfolio)
 
