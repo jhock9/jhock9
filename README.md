@@ -3,7 +3,7 @@
 
 - 🔭 My latest project was an [AI Translator App](https://github.com/jhock9/pollyglot)
 
-- 👨‍💻 Check out some of my other work at [www.okwebstudios.com](https://www.okwebstudios.com/#portfolio)
+- 👨‍💻 Check out some of my other work at [www.jonhocker.com](https://www.jonhocker.com/#portfolio)
 
 - 🌱 I’m currently learning **React, AI Engineering**
 
